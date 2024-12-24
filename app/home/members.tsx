@@ -1,0 +1,1 @@
+// Ana sayfa içinde nested bir route olarak açılır 
